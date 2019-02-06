@@ -1,6 +1,6 @@
 # Godenticon
 
-Godenticon is a tiny package that generates identicons based on the hash of provided and it is inspired by [Pydenticon](https://github.com/azaghal/pydenticon)
+Godenticon is a tiny package that generates identicons based on the hash of provided data. It is inspired by [Pydenticon](https://github.com/azaghal/pydenticon)
 
 ## Example
 
